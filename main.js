@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function () { //inicia-se sempre assim!
     /*
     //selecionando um elevento usando JS
     console.log(document.querySelector('header button'));
